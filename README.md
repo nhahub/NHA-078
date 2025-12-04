@@ -6,7 +6,51 @@ An AI-powered precision agriculture platform that provides crop recommendations 
 
 **🚀 Try it now:** [https://agritech-advisor.streamlit.app/](https://agritech-advisor.streamlit.app/)
 
-## � Overview
+## 📸 Application Screenshots
+
+### Main Interface
+<div align="center">
+  <img src="docs/screenshots/01-main-interface.png" alt="AgriTech Main Interface" width="800"/>
+  <p><em>Modern dark-themed dashboard with intuitive navigation and real-time system status</em></p>
+</div>
+
+### 🌱 Crop Recommendation System
+<div align="center">
+  <img src="docs/screenshots/05-crop-recommendation.png" alt="Crop Recommendation" width="800"/>
+  <p><em>AI-powered crop recommendations</em></p>
+</div>
+
+### 💧 Smart Irrigation Analysis
+<div align="center">
+  <img src="docs/screenshots/06-irrigation-analysis.png" alt="Irrigation Analysis" width="800"/>
+  <p><em>Two-step irrigation analysis: Decision making + Optimal amount calculation (1.33 units)</em></p>
+</div>
+
+### 🏞️ Soil Type Classification
+<div align="center">
+  <img src="docs/screenshots/07-soil-type-result.png" alt="Soil Classification" width="800"/>
+  <p><em>Deep learning-based soil classification</em></p>
+</div>
+
+### 📡 IoT Real-Time Monitoring
+<div align="center">
+  <img src="docs/screenshots/08-iot-dashboard.png" alt="IoT Dashboard" width="800"/>
+  <p><em>Live sensor data visualization with temperature, humidity, soil moisture, and historical trends</em></p>
+</div>
+
+### 🤖 AI Agricultural Assistant (Gemini)
+<div align="center">
+  <img src="docs/screenshots/09-gemini-response.png" alt="Gemini AI Assistant" width="800"/>
+  <p><em>Intelligent farming advice powered by Google Geminis</em></p>
+</div>
+
+### ⚙️ Input Parameters Interface
+<div align="center">
+  <img src="docs/screenshots/03-input-parameters.png" alt="Input Parameters" width="800"/>
+  <p><em>Comprehensive parameter configuration: NPK nutrients, environmental conditions, and irrigation settings</em></p>
+</div>
+
+## 📊 Overview
 
 - Crop recommendation with soil type feature (99.32% accuracy)
 - Smart irrigation decision (CatBoost classifier with Optuna optimization)
