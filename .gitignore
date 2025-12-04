@@ -72,6 +72,7 @@ catboost_info/
 mlruns/*/artifacts/
 mlflow_exports/
 *.png
+!docs/screenshots/*.png
 *.txt
 *.csv
 !requirements.txt
